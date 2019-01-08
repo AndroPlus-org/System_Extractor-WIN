@@ -2,3 +2,9 @@
 *.zip
 
 system_/
+vendor_/
+
+*.br
+*.dat
+*.list
+system__statfile.txt
